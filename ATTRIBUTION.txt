@@ -12,3 +12,10 @@ Title: Navidad MDA YUC MEX 2017 01.jpg
 Author: Gildardo Sanchez
 License: CC BY 2.0
 Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_01.jpg
+
+4-purisima-leon.jpg
+Title: Purisima en Leon
+Location: Leon, Nicaragua
+Author: DayanaFerraris
+License: CC BY-SA 4.0
+Source: https://commons.wikimedia.org/wiki/File:Purisima_en_Le%C3%B3n.jpg

@@ -1,7 +1,8 @@
 # Navidad Latina
 
 Tema festivo para **Omarchy 4**, con colores inspirados en la Navidad
-latinoamericana, un fondo original y fotos de alumbrados en Colombia y Mexico.
+latinoamericana, un fondo original y fotos de la Purisima en Nicaragua y de
+alumbrados en Colombia y Mexico.
 Probado en Omarchy 4.5.
 
 ## Instalacion
