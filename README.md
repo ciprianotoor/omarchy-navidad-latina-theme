@@ -5,6 +5,9 @@ latinoamericana, un fondo original y fotos de la Purisima en Nicaragua y de
 alumbrados en Colombia y Mexico.
 Probado en Omarchy 4.5.
 
+Incluye diez fondos: una ilustracion original y nueve fotos con licencia
+abierta.
+
 ## Instalacion
 
 ```bash

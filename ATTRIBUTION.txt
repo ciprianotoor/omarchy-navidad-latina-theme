@@ -19,3 +19,39 @@ Location: Leon, Nicaragua
 Author: DayanaFerraris
 License: CC BY-SA 4.0
 Source: https://commons.wikimedia.org/wiki/File:Purisima_en_Le%C3%B3n.jpg
+
+fiesta-yucatan-02.jpg
+Title: Navidad MDA YUC MEX 2017 02.jpg
+Author: Gildardo Sanchez
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_02.jpg
+
+fiesta-yucatan-03.jpg
+Title: Navidad MDA YUC MEX 2017 03.jpg
+Author: Gildardo Sanchez
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_03.jpg
+
+fiesta-yucatan-04.jpg
+Title: Navidad MDA YUC MEX 2017 04.jpg
+Author: Gildardo Sanchez
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_04.jpg
+
+fiesta-yucatan-05.jpg
+Title: Navidad MDA YUC MEX 2017 05.jpg
+Author: Gildardo Sanchez
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_05.jpg
+
+fiesta-yucatan-06.jpg
+Title: Navidad MDA YUC MEX 2017 06.jpg
+Author: Gildardo Sanchez
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_06.jpg
+
+fiesta-yucatan-07.jpg
+Title: Navidad MDA YUC MEX 2017 07.jpg
+Author: Gildardo Sanchez
+License: CC BY 2.0
+Source: https://commons.wikimedia.org/wiki/File:Navidad_MDA_YUC_MEX_2017_07.jpg
